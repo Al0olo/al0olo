@@ -59,7 +59,7 @@ Senior Software Engineer with expertise in Full Stack Development, Cloud Computi
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=al0olo&show_icons=true&theme=radical)
 
 ## 📈 Activity Graph
-![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=al0olo&theme=react-dark)
+![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=al0olo)
 
 ---
 ⭐️ From [Abdullah-Farag](https://github.com/al0olo)
