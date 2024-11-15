@@ -63,5 +63,5 @@ Senior Software Engineer with expertise in Full Stack Development, Cloud Computi
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al0olo&layout=compact&theme=radical" alt="Top Languages" />
 </div>
----
+
 ⭐️ From [Abdullah-Farag](https://github.com/al0olo)
