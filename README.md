@@ -56,10 +56,12 @@ Senior Software Engineer with expertise in Full Stack Development, Cloud Computi
 - Created custom DevOps tools and utilities
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=al0olo&show_icons=true&theme=radical)
-
-## 📈 Activity Graph
-![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=al0olo)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=al0olo&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=al0olo&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al0olo&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 ---
 ⭐️ From [Abdullah-Farag](https://github.com/al0olo)
