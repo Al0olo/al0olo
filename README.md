@@ -40,7 +40,7 @@ Senior Software Engineer with expertise in Full Stack Development, Cloud Computi
 - **Cloud Services**: AWS, Azure
 - **Infrastructure as Code**: YAML, Terraform, Ansible
 - **Automation**: Bash Scripting
-- **CI/CD**: GitHub Actions, Jenkins
+- **CI/CD**: GitHub Actions, Jenkins, ArgoCD, FluxCD
 
 ## 💼 Experience Highlights
 - Architected and deployed scalable cloud-native applications
