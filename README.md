@@ -26,19 +26,19 @@ Senior Software Engineer with expertise in Full Stack Development, Cloud Computi
 
 ### Backend Development
 - **Python Ecosystem**: Flask, Django, Frappe
+- **Javascript**: NodeJS, Deno
 - **PHP**: Laravel
 - **API Development**: RESTful APIs, GraphQL
 
 ### Frontend Development
 - **JavaScript/TypeScript**: Vue.js, React.js
 - **State Management**: Redux Toolkit
-- **Mobile**: React Native
-- **Framework**: Binnea
+- **Mobile**: React Native, Flutter
 
 ### DevOps & Cloud
 - **Containerization**: Docker, Kubernetes
-- **Cloud Services**: AWS
-- **Infrastructure as Code**: YAML
+- **Cloud Services**: AWS, Azure
+- **Infrastructure as Code**: YAML, Terraform, Ansible
 - **Automation**: Bash Scripting
 - **CI/CD**: GitHub Actions, Jenkins
 
